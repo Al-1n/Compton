@@ -25,10 +25,12 @@ Compton's experiment marked a revolutionary turning point in the understanding o
 
 <br/>
 
-![](/img/Time_Cover_Arthur_H_Compton.jpg)
-<div class='col one caption'>
-    Arthur H. Compton 
-</div>
+<p align="center">
+  <img src="/img/Time_Cover_Arthur_H_Compton.jpg" alt="">
+  <br>
+  Arthur H. Compton
+</p>
+
 <br/>  
 
 In his seminal 1923 paper on the quantum theory of light scattering, A.H. Compton challenged the classical Thomson model of wave-matter interaction. He argued that the observed wavelength shift, resulting from the scattering of energetic X-rays or gamma rays by weakly bound electrons, could be better explained by considering a particle-like interaction between the incident 'radiation quantum' and the electron. This interaction caused the electron to recoil, leading to a frequency shift that resulted in the emission of a lower-energy photon. The energy difference was transferred to the electron, showcasing the dual nature of light as both waves and particles.
@@ -44,10 +46,7 @@ For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 19
   Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.
 </p>
 
-![](/img/Alvarez_and_Compton.jpeg)
-<div class='col one caption'>
-Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.       
-</div>
+
 <br/>   
 
 # Results
@@ -62,12 +61,13 @@ For more information read the full report by following the link: <a href="https:
 
 <br/>
 
-![](/img/Cs_137.png)
-<div class='col one caption'>
-    Uncalibrated Cs-137 spectrum, showing the leading 
+<p align="center">
+  <img src="/img/Cs_137.png" alt="">
+  <br>
+  Uncalibrated Cs-137 spectrum, showing the leading 
 Ba X-ray peak, the Pb X-ray, backscatter, Compton edge,
-and the photopeak at 661.657 keV 
-</div>
+and the photopeak at 661.657 keV. 
+</p>
 
 <br/><br/><br/>
 
