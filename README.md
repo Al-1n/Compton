@@ -22,9 +22,11 @@ These data sets were collected at Stony Brook University by Nikhil Kumar, Xueqi 
 
 <br/>
 Compton's experiment marked a revolutionary turning point in the understanding of physics, as it not only confirmed Albert Einstein's 1905 proposal of energy quantization but also provided compelling evidence for the particle nature of light.
+
 <br/>
+
 ![](/img/Time_Cover_Arthur_H_Compton.jpg)
-<div class='col three caption'>
+<div class='col one caption'>
     Arthur H. Compton 
 </div>
 <br/>  
@@ -35,11 +37,9 @@ For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 19
 
 <br/>
 
-![](/img/Time_Cover_Arthur_H_Compton.jpg)
-<div class='col three caption'>
-<br/>
-
-    Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.   
+![](/img/Alvarez_and_Compton.jpeg)
+<div class='col one caption'>
+Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.       
 </div>
 <br/>   
 
@@ -56,7 +56,7 @@ For more information read the full report by following the link: <a href="https:
 <br/>
 
 ![](/img/Cs_137.png)
-<div class='col two caption'>
+<div class='col one caption'>
     Uncalibrated Cs-137 spectrum, showing the leading 
 Ba X-ray peak, the Pb X-ray, backscatter, Compton edge,
 and the photopeak at 661.657 keV 
