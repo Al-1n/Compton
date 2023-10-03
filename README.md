@@ -1,3 +1,14 @@
+<style>
+  .caption {
+    font-style: italic; /* Italicize the text for emphasis */
+    font-weight: bold; /* Make it bold if desired */
+    color: #333; /* Set your desired text color */
+    background-color: #f0f0f0; /* Set your desired background color */
+    padding: 8px; /* Add some padding for separation */
+    border: 1px solid #ccc; /* Add a border for separation */
+  }
+</style>
+
 # Compton
 
 ## Compton Scattering of gamma ray photons from low and high density metals
