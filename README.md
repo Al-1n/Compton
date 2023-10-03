@@ -1,14 +1,3 @@
-<style>
-  .caption {
-    font-style: italic; /* Italicize the text for emphasis */
-    font-weight: bold; /* Make it bold if desired */
-    color: #333; /* Set your desired text color */
-    background-color: #f0f0f0; /* Set your desired background color */
-    padding: 8px; /* Add some padding for separation */
-    border: 1px solid #ccc; /* Add a border for separation */
-  }
-</style>
-
 # Compton
 
 ## Compton Scattering of gamma ray photons from low and high density metals
@@ -54,7 +43,7 @@ For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 19
   <img src="/img/Alvarez_and_Compton.jpeg" alt="" style="max-width:100%; height:auto;">
 </div>
 <div align="center">
-  <p style="width: 400px;">Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.</p>
+  <p style="width: 400px;"><em>Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.</em></p>
 </div>
 
 
