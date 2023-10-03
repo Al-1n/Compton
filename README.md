@@ -28,7 +28,7 @@ Compton's experiment marked a revolutionary turning point in the understanding o
 <p align="center">
   <img src="/img/Time_Cover_Arthur_H_Compton.jpg" alt="">
   <br>
-  Arthur H. Compton
+  <em>Arthur H. Compton</em>
 </p>
 
 <br/>  
@@ -64,9 +64,9 @@ For more information read the full report by following the link: <a href="https:
 <p align="center">
   <img src="/img/Cs_137.png" alt="">
   <br>
-  Uncalibrated Cs-137 spectrum, showing the leading 
+  <em>Uncalibrated Cs-137 spectrum, showing the leading 
 Ba X-ray peak, the Pb X-ray, backscatter, Compton edge,
-and the photopeak at 661.657 keV. 
+and the photopeak at 661.657 keV.</em> 
 </p>
 
 <br/><br/><br/>
