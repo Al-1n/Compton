@@ -39,16 +39,8 @@ For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 19
 
 <br/>
 
-
-<p align="center">
-  <img src="/img/Alvarez_and_Compton.jpeg" alt="">
-  <br>
-  Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.
-</p>
-
-
 <div align="center">
-  <img src="/img/Alvarez_and_Compton.jpeg" alt="" width="400">
+  <img src="/img/Alvarez_and_Compton.jpeg" alt="" style="max-width:100%; height:auto;">
 </div>
 <div align="center">
   <p style="width: 400px;">Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.</p>
