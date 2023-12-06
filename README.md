@@ -8,7 +8,7 @@
 
 ![](/img/python_icon.png) ![](/img/jupyter_icon.png)
 
-This repository contains code for the analysis of data from an actual quantum mechanics experiment. The experiment utilized a monoenergetic gamma-ray source (Cs-137) and a photomultiplier detector to investigate the angle-dependent energy shift of scattered photons. This investigation provides a practical approach to determining the rest mass of the electron experimentally.
+This repository contains code for the analysis of data from an actual quantum mechanics experiment. The experiment utilized a monoenergetic gamma-ray source (Cs-137) and a photomultiplier detector to investigate the angle-dependent energy shift of scattered photons from a metal target. This investigation provides a practical approach to determining the rest mass of the electron experimentally.
 
 **Requirements**
 * JupyterLab
