@@ -10,13 +10,30 @@
 
 This repository contains code for the analysis of data from an actual quantum mechanics experiment. The experiment utilized a monoenergetic gamma-ray source (Cs-137) and a photomultiplier detector to investigate the angle-dependent energy shift of scattered photons. This investigation provides a practical approach to determining the rest mass of the electron experimentally.
 
----
+**Requirements**
+* JupyterLab
+* Pandas
+* NumPy
+* Lmfit
+* Matplotlib
 
-# Data
+**How to use this project**
 
-<br/>
+The code in these files can be adapted and used as a reference for analyzing data from scattering experiments. 
+
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
+
+In order to adapt the code to new measurements, a basic understanding on how to place, load and transform the data is required. 
+
+**Contributors**
+
+The experiment was performed under the guidance of Dr. Clark McGrew.
+
 These data sets were collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
-<br/>
+
+Data analysis performed by <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
+
+---
 
 # Background
 
