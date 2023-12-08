@@ -21,7 +21,7 @@ This repository contains code for the analysis of data from an actual quantum me
 
 The code in these files can be adapted and used as a reference for analyzing data from scattering experiments. 
 
-Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used to run the code once the necessary packages are installed.
 
 In order to adapt the code to new measurements, a basic understanding on how to place, load and transform the data is required. 
 
